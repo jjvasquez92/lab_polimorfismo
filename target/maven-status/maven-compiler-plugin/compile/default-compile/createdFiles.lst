@@ -1,0 +1,6 @@
+co\edu\unicauca\viajes\viajes\domain\ViajeFamiliar.class
+co\edu\unicauca\viajes\viajes\domain\ViajeIndividual.class
+co\edu\unicauca\viajes\viajes\domain\ClienteMain.class
+co\edu\unicauca\viajes\viajes\domain\ViajeIncentivo.class
+co\edu\unicauca\viajes\viajes\domain\ViajeTodoIncluido.class
+co\edu\unicauca\viajes\viajes\domain\Viaje.class
